@@ -226,6 +226,7 @@ This project is licensed under the MIT License.
 
 with open(os.path.join(project_dir, "README.md"), "w") as readme_file:
     readme_file.write(README_CONTENT)
+    
 
 # Run Flask App
 if __name__ == '__main__':
